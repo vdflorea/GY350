@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Project_Folder" targetName="Project_Folder" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="027ba75b-b602-4cfc-8e2d-5a14d09ec687" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c5f84a28397e20359ef7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d8677bccd729a753270d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9f20e996e3373540887f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-04T22-55-10-0879.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/Reading_in_Surnames_SAM_VERS.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures Code/CT103 W20 LC --- Word Searching, Surnames/Reading in Surnames SAM VERS/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/Arrow Keys Move Car With Limits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/Arrow Keys Move Image With Buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/Arrow Keys Move Image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/Explosion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/IceCube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/Only Allowing Numerical Chars in Input Field.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WEB DEVELOPMENT/Lectures Code/CT1114 W15 LC --- Numerical Input, Arrow Keys Event/mysterymachine.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="2MvQh9UXUz6NNqQLGsFJQAxx18I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Project_Folder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project_Folder" TARGET_NAME="Project_Folder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project_Folder" RUN_TARGET_NAME="Project_Folder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027ba75b-b602-4cfc-8e2d-5a14d09ec687" name="Changes" comment="" />
+      <created>1678645692841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678645692841</updated>
+      <workItem from="1678645694594" duration="5845000" />
+      <workItem from="1678806639261" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

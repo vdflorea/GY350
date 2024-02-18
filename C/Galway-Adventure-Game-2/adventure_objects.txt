@@ -1,0 +1,4 @@
+Name		Location	Description
+-----------------------------------
+USB Drive	3			A small USB drive which holds a whopping 1TB
+Ice Cream	4			An ice cream, inexplicably found on Salthill Prom

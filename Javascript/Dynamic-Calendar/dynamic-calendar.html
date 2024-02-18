@@ -1,0 +1,137 @@
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+        <style>
+            body {
+                background-color: gray;
+                font-family: 'Ubuntu', sans-serif;
+            }
+            div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-top: 15%;
+            }
+            table {
+                width: 700px;
+                height: 360px;
+                border-collapse: collapse;
+                position: absolute;
+            }
+            th {
+                width: 100px;
+                height: 60px;
+                color: white;
+                border: 3px;
+                border-style: ridge;
+                border-color: black;
+            }
+ 
+        </style>
+        <script>
+            function userInput () {
+                let yearNum, monthNum;
+
+                while (isNaN(yearNum) || yearNum < 1900) {
+                    yearNum = window.prompt("Enter the year:", 0);
+                }
+                while (isNaN(monthNum) || !(monthNum >= 1 && monthNum <= 12)) {
+                    monthNum = window.prompt("Enter the month (1 --> 12):", 0);
+                }
+                generateCalendar(parseInt(yearNum), parseInt(monthNum));
+            }
+
+            function generateCalendar(year, month) {
+                let calendar = "<table id='calendar'><tr style='background-color: darkred;'><th>Sunday</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr><tr>";
+                
+                // Number of non-empty cells required (days of month) 
+                let daysInMonth = numMonthDays(year, month);
+ 
+                // Pre-requisite calculations for weekDay calculation
+                let yearsToNow = (year - 1900) * 365;
+                let leapYears = calcLeapYearDays(year);
+                let currYearDays = daysFromJan(year, month - 1);
+
+                // Calculate day of the week for the 1st day of a specific month for a specific year
+                let weekDay = (1 + yearsToNow + leapYears + currYearDays) % 7;
+
+                // Extra row required in certain cases
+                let numCells = (weekDay + daysInMonth) <= 35 ? 35 : 42; 
+
+                // "Build up" the calendar
+                for (let i = 0; i < numCells; i++) {
+                    let currDay = i - weekDay + 1;
+
+                    if (i % 7 == 0) {
+                        // Start a new row (week)
+                        calendar += "</tr><tr>";
+                    }
+
+                    if (i < weekDay || currDay > daysInMonth) {
+                        // Fill up empty spaces in calendar with empty gray cells
+                        calendar += "<th style='background-color: lightgray;'></th>";
+                    } else if (i >= weekDay &&  currDay <= daysInMonth) {
+                        // Fill up relevant days of the month with cells corresponding to each day 
+                        calendar += "<th style='background-color: dimgray;'>" +currDay+ "</th>";
+                    } 
+                }
+
+                document.getElementById("calendar").innerHTML = calendar + "</tr></table>";
+            }
+
+            // Returns number of days for in a specific month of the year
+            function numMonthDays(year, month) {
+                if (month == 9 || month == 4 || month == 6 || month == 11) {
+                    return 30;
+                }
+                if (month != 2) {
+                    return 31;
+                }
+                return (28 + isLeapYear(year)); // February
+            }
+
+            // Determine whether year is a leap year
+            function isLeapYear(year) {
+                if (year % 400 == 0) {
+                    return 1;
+                } else if (year % 100 == 0) {
+                    return 0;
+                } else if (year % 4 == 0) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+		    }
+
+            // Calculates extra days as a result of leap years from 1900 --> year
+            function calcLeapYearDays(year) {
+                let days = 0;
+
+                while (year >= 1900) {
+                    days += isLeapYear(year);
+                    year--;
+                }
+                return days;
+            }
+
+            // Calculates number of days in a specific year (i.e. accounts for leap years also)
+            function daysFromJan(year, month) {
+                let numDays = 0;
+
+                while (month > 0) {
+                    numDays += numMonthDays(year, month);
+                    month--;
+                }
+                console.log(numDays);
+                return numDays;
+            }
+
+        </script>
+    </head>
+    <body onload="userInput();">
+        <div id="calendar">
+        </div>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+ID	N	S	E	W	IN	OUT	Description
+---------------------------------------------------
+1	5	4	6	7	2	0	On the NUIG campus, outside the CS building.
+2	0	0	0	0	3	1	In the Computer Science Building, outside a computer lab.
+3	0	0	0	0	0	2	In a computer lab.
+4	1	0	8	7	9	0	On the Salthill prom. The sea looks inviting (but cold).
+5	0	1	6	7	0	0	In Newcastle.
+6	0	8	0	1	0	0	In Terryland.	
+7	0	0	1	0	0	0	In Knocknacarra.
+8	1	0	0	4	0	0	On Quay Street.
+9	0	0	0	0	0	4	In the Sea. It's freezing!
