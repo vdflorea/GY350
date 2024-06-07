@@ -1,0 +1,1 @@
+QUESTION: Is it an animal?,QUESTION: Is it a mammal?,QUESTION: Does it have stripes?,QUESTION: Is it a fish?,GUESS: Nemo?,#,#,GUESS: Zebra?,#,#,GUESS: Lion?,#,#,QUESTION: Is it a bird?,GUESS: Eagle?,#,#,GUESS: Crocodile?,#,#,GUESS: Mercedes Benz?,#,#
