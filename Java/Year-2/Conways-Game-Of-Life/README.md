@@ -1,3 +1,6 @@
+### Screenshots:
+![Snippet of gameplay](../1-Screenshots/Conways-Game-Of-Life.PNG)
+
 ### Description: 
 Cellular automaton game. Player can add cells to a grid manually or randomise the grid with active (white) cells. Features saving/loading functionality for cell patterns on the grid.
 
