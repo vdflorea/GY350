@@ -1,3 +1,4 @@
+### Screenshots:
 ![Snippet of Galway Adventure Game 2 gameplay](../1-Screenshots/Galway-Adventure-Game-2.JPG)
 
 ### Description: 

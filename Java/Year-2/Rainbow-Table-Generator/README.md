@@ -6,7 +6,7 @@
 ![Searching for Matches](../1-Screenshots/Rainbow-Tables-2.png)
 
 ### Description: 
-Simple program which creates a Rainbow Table using 10 hard-coded start values.
+Simple program which creates a Rainbow Table using 10 hard-coded start values and then searches for specific hash collisions using the table
 
 ### Module: 
 Cybersecurity

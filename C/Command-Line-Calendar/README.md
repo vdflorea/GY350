@@ -1,4 +1,4 @@
-### Screenshots
+### Screenshots:
 ![Calendar in C](../1-Screenshots/Command-Line-Calendar.JPG)
 
 ### Description: 

@@ -1,4 +1,4 @@
-### Screenshots
+### Screenshots:
 ![Section of the Green Eggs & Ham text with calculated Flesch readability index below](../1-Screenshots/Flesch-Readability-Index.JPG)
 
 ### Description: 

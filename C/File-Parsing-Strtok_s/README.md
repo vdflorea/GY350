@@ -1,4 +1,4 @@
-### Screenshots
+### Screenshots:
 ![Sample of parsed data](../1-Screenshots/File-Parsing-Cars.JPG)
 
 ### Description: 
